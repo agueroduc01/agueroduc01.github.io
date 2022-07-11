@@ -1,0 +1,5 @@
+assets/js
+assets/music
+
+node_modules/
+db.json
