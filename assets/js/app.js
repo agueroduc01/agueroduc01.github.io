@@ -125,6 +125,12 @@ const app = {
       path: "./assets/music/Em Đừng Khóc - Chillies.mp3",
       image: "./assets/img/EmDungKhoc.jpg",
     },
+    {
+      name: "Caroline",
+      singer: "Crash Adams",
+      path: "./assets/music/Crash Adams - Caroline.mp3",
+      image: "./assets/img/Caroline.jpg",
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
