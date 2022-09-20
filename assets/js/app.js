@@ -131,6 +131,12 @@ const app = {
       path: "./assets/music/Crash Adams - Caroline.mp3",
       image: "./assets/img/Caroline.jpg",
     },
+    {
+      name: "Give Me A Kiss",
+      singer: "Crash Adams",
+      path: "./assets/music/Crash Adams - Give Me A Kiss.mp3",
+      image: "./assets/img/GiveMeAKiss.jpg",
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
